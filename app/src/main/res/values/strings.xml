@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GameOfDados</string>
+    <string name="button_text">Lanzar</string>
 </resources>
