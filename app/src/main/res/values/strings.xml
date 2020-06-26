@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GameOfDados</string>
-    <string name="button_text">Lanzar</string>
+    <string name="button_text">Roll</string>
+    <string name="des_imagenlogo">ImageLogo</string>
+    <string name="des_imagendado1">ImageDice1</string>
+    <string name="des_imagendado2">ImageDice2</string>
+    <string name="des_botonlanzar">ButtonRoll</string>
 </resources>

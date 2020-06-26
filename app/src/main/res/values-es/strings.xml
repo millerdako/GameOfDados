@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JuegoDeDados</string>
+    <string name="button_text">Lanzar</string>
+    <string name="des_imagenlogo">ImagenLogo</string>
+    <string name="des_imagendado1">ImagenDado1</string>
+    <string name="des_imagendado2">ImagenDado2</string>
+    <string name="des_botonlanzar">BotonLanzamiento</string>
+</resources>
