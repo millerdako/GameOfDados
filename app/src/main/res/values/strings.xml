@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GameOfDados</string>
+    <string name="app_name">GameOfDicee</string>
     <string name="button_text">Roll</string>
     <string name="des_imagenlogo">ImageLogo</string>
     <string name="des_imagendado1">ImageDice1</string>
